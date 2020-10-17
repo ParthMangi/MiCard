@@ -28,5 +28,5 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 # MI Card
 
-![mi_card](https://github.com/ParthMangi/i_am_poor/blob/main/poor.gif?raw=true)
+![mi_card](https://github.com/ParthMangi/MiCard/blob/main/card.gif?raw=true)
 
