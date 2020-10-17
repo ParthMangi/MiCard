@@ -19,6 +19,14 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to style Text widgets
 * How to read and use Flutter Documentation
 
+## Last Run
+ 
+  - Flutter 1.20.4 • channel unknown • unknown source
+  - Framework • revision fba99f6cf9 (5 weeks ago) • 2020-09-14 15:32:52 -0700
+  - Engine • revision d1bc06f032
+  - Tools • Dart 2.9.2
 
+# MI Card
 
+![mi_card](https://github.com/ParthMangi/i_am_poor/blob/main/poor.gif?raw=true)
 
